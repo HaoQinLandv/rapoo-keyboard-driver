@@ -1,5 +1,4 @@
 # 雷柏v500在Linux系统不能使用Ctrl和Alt问题
-# 雷柏v500在Linux系统不能使用Ctrl和Alt问题
 1、下载驱动
 2、解压
 3、cd到解压的文件夹
